@@ -12,3 +12,6 @@ logs
 results
 
 npm-debug.log
+
+/express/example1/.idea/
+/express/example1/node_modules/
