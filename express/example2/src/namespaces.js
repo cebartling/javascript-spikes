@@ -1,0 +1,1 @@
+window.GiftRegistry = window.GiftRegistry || {};
