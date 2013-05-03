@@ -1,1 +1,1 @@
-window.GiftRegistry = window.GiftRegistry || {};
+var GiftRegistry = GiftRegistry || {};
