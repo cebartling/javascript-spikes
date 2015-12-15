@@ -1,10 +1,8 @@
 {
   "name": "rxjs-spike",
   "version": "0.0.0",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "karma": "^0.13.15",
     "gulp": "~3.9.0",
     "gulp-autoprefixer": "~3.1.0",
     "gulp-bower-files": "~0.2.1",
@@ -17,15 +15,22 @@
     "gulp-flatten": "~0.2.0",
     "gulp-imagemin": "~2.4.0",
     "gulp-jshint": "~2.0.0",
+    "gulp-karma": "0.0.5",
     "gulp-load-plugins": "~1.1.0",
     "gulp-ruby-sass": "~2.0.6",
     "gulp-size": "~2.0.0",
     "gulp-uglify": "~1.5.1",
     "gulp-useref": "~3.0.3",
     "gulp-util": "~3.0.7",
+    "jshint": "^2.8.0",
+    "karma": "^0.13.15",
+    "karma-coffee-preprocessor": "^0.3.0",
+    "karma-mocha": "^0.2.1",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "mocha": "^2.3.4",
     "open": "~0.0.4",
-    "wiredep": "~3.0.0",
-    "gulp-karma": "0.0.5"
+    "phantomjs": "^1.9.19",
+    "wiredep": "~3.0.0"
   },
   "engines": {
     "node": ">=0.10.0"
